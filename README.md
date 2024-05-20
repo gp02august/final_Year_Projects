@@ -1,5 +1,6 @@
-# Hand Gesture Recognition with Virtual Blackboard
-This Python project utilizes the MediaPipe library for hand tracking to enable gesture-based interactions with a virtual blackboard. Users can draw, erase, control volume, and move the cursor using hand gestures captured through a webcam.
+# INTELLIGENT GESTURE-DRIVEN VIRTUAL BLACKBOARD
+  This Python project utilizes the MediaPipe library for hand tracking to enable gesture-based interactions with a virtual blackboard. Users can draw, erase, control 
+  volume, and move the cursor using hand gestures captured through a webcam.
 
 # Features:
 * Hand Gesture Recognition: Detects hand gestures in real-time using MediaPipe Hands.
